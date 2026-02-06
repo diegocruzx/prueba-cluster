@@ -1,5 +1,5 @@
 ===================================
-Infraestructura del Leviatán
+Hardware del LNS-BUAP
 ===================================
 
 
