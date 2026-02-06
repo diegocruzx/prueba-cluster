@@ -1,4 +1,4 @@
-Catálogo de Software Científico - Cluster Leviatán
+Catálogo de Software
 ==================================================
 
 .. note::
@@ -8,28 +8,86 @@ Software de Desarrollo y Simulaciones
 =====================================
 
 .. list-table:: 
-   :widths: 20 80
+   :widths: 25 75
    :header-rows: 0
    :class: software-table floating-table
 
    * - .. image:: _static/abinit_logo.png
-          :width: 100%
+          :width: 120px
           :align: center
           :alt: Logo Abinit
 
      - **Abinit**
+
+       Suite de software para calcular propiedades ópticas, mecánicas y vibratorias de materiales mediante DFT.
        
-       :Descripción: Suite de software para calcular propiedades ópticas, mecánicas y vibratorias de materiales mediante DFT.
-       :Capacidades: Cálculo de moléculas, nanoestructuras y sólidos de cualquier composición.
-       :Documentación: `Sitio Oficial <https://www.abinit.org/>`_
+       *Cálculo de moléculas, nanoestructuras y sólidos de cualquier composición.*
+
+       `Sitio Oficial de Documentación <https://www.abinit.org/>`_
+
+   * - .. image:: _static/anaconda_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Anaconda
+
+     - **Anaconda**
+       
+       Distribución libre y abierta de los lenguajes Python y R, utilizada en ciencia de datos y aprendizaje automático. 
+
+       *Procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos.* 
+       
+       *Versión Instalada: Anaconda2 / 4.1.1 Anaconda3 / 4.0.0* 
+
+       `Sitio Oficial de Documentación <https://www.anaconda.com/>`_
+
+   * - .. image:: _static/bowtie_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Bowtie
+
+     - **Bowtie**
+       
+       Alineador de lectura breve ultrarrápida y eficiente en memoria para secuencias cortas de ADN (lecturas) al genoma humano.
+
+       *Indexación basada en Burrows-Wheeler para optimizar el uso de memoria en análisis genómicos.*
+
+       *Versión Instalada: 1 / 2, Este software se encuentra en el paquete BIO - Linux* 
+       
+       `Sitio Oficial de Documentación <http://bowtie-bio.sourceforge.net/manual.shtml>`_
+       
+   * - .. image:: _static/blast_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo BLAST
+
+     - **BLAST (Basic Local Alignment Search Tool)**
+       
+       Encontrar regiones de similitud local entre secuencias biológicas, comparando nucleótidos o proteínas con bases de datos.
+
+       Inferencia de relaciones funcionales y evolutivas, e identificación de miembros de familias de genes,
+       
+       mediante significancia estadística.
+       
+       *Versión Instalada: 2.5.0, Este software se encuentra en el paquete BIO - Linux* 
+       
+       `Sitio Oficial de Documentación <https://blast.ncbi.nlm.nih.gov/Blast.cgi>`_
+       
+
+
+
+
+
+
+
+
 
 .. list-table:: 
-   :widths: 20 80
+   :widths: 25 75
    :header-rows: 0
    :class: software-table floating-table
 
    * - .. image:: _static/quantum_espresso_logo.png
-          :width: 100%
+          :width: 120px
           :align: center
           :alt: Logo Quantum ESPRESSO
 
@@ -103,59 +161,6 @@ Librerías y Herramientas
        
        :Descripción: Biblioteca de paso de mensajes (MPI) de alto rendimiento para computación paralela.
        :Implementación: Open Source MPI-3 estándar compatible
-
-.. list-table:: 
-   :widths: 20 80
-   :header-rows: 0
-   :class: software-table floating-table
-
-   * - .. image:: _static/anaconda_logo.png
-          :width: 100%
-          :align: center
-          :alt: Logo Anaconda
-
-     - **Anaconda Distribution**
-       
-       :Descripción: Distribución abierta de Python y R para ciencia de datos y Machine Learning.
-       :Versiones en Leviatán:
-          * **Anaconda2 / 4.1.1:** Python 2.7.15
-          * **Anaconda3 / 4.0.0:** Python 3.5.6
-          * **Anaconda3 / 2022.05:** Python 3.9.12
-
-Software Especializado
-======================
-
-.. list-table:: 
-   :widths: 20 80
-   :header-rows: 0
-   :class: software-table floating-table
-
-   * - .. image:: _static/bowtie_logo.png
-          :width: 100%
-          :align: center
-          :alt: Logo Bowtie
-
-     - **Bowtie**
-       
-       :Descripción: Alineador de lectura breve ultrarrápido y eficiente en memoria.
-       :Versiones Instaladas: 1 y 2
-
-.. list-table:: 
-   :widths: 20 80
-   :header-rows: 0
-   :class: software-table floating-table
-
-   * - .. image:: _static/blast_logo.png
-          :width: 100%
-          :align: center
-          :alt: Logo BLAST
-
-     - **BLAST+**
-       
-       :Descripción: Encuentra regiones de similitud local entre secuencias biológicas.
-       :Uso: Comparación de nucleótidos o proteínas contra bases de datos.
-
-----
 
 .. seealso::
    Para solicitar la instalación de nuevo software, consulte la sección de :doc:`contacto` o envíe un ticket a soporte.
