@@ -64,9 +64,9 @@ Software de Desarrollo y Simulaciones
        
        Encontrar regiones de similitud local entre secuencias biológicas, comparando nucleótidos o proteínas con bases de datos.
 
-       Inferencia de relaciones funcionales y evolutivas, e identificación de miembros de 
+       Inferencia de relaciones funcionales y evolutivas, e identificación de miembros de familias de genes,
        
-       familias de genes mediante significancia estadística.
+       mediante significancia estadística.
        
        *Versión Instalada: 2.5.0, Este software se encuentra en el paquete BIO - Linux* 
        
