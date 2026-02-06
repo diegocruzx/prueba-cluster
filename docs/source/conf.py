@@ -66,3 +66,6 @@ latex_documents = [
      'Catálogo del Cluster Leviatán',
      'Laboratorio Nacional de Supercómputo', 'manual'),
 ]
+
+def setup(app):
+    app.add_css_file('custom.css')
