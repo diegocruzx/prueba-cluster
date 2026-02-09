@@ -9,10 +9,9 @@ El Laboratorio Nacional de Supercómputo del Sureste de México (LNS) cuenta con
 
 Cluster Cuetlaxcoapan
 ===================================
-Conformado por un clúster con procesadores Intel Xeon Haswell
 
 --------------------------
-
+:Arquitectura: Intel Xeon Haswell
 :Sistema Operativo: CentOS 6.6
 :Total de Núcleos: 2,952 núcleos de procesamiento
 :Almacenamiento: 240 TB de espacio total
