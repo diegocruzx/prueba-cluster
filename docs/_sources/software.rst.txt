@@ -1,0 +1,228 @@
+Catálogo de Software
+==================================================
+
+.. note::
+   Si requieres una versión específica no listada aquí, por favor contacta a soporte.
+
+Software de Desarrollo y Simulaciones
+=====================================
+
+.. list-table:: 
+   :widths: 25 75
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/abinit_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Abinit
+
+     - **Abinit**
+
+       Suite de software para calcular propiedades ópticas, mecánicas y vibratorias de materiales mediante DFT.
+       
+       *Cálculo de moléculas, nanoestructuras y sólidos de cualquier composición.*
+
+       `Sitio Oficial de Documentación <https://www.abinit.org/>`_
+
+   * - .. image:: _static/anaconda_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Anaconda
+
+     - **Anaconda**
+       
+       Distribución libre y abierta de los lenguajes Python y R, utilizada en ciencia de datos y aprendizaje automático. 
+
+       *Procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos.* 
+       
+       *Versión Instalada: Anaconda2 / 4.1.1 Anaconda3 / 4.0.0* 
+
+       `Sitio Oficial de Documentación <https://www.anaconda.com/>`_
+
+   * - .. image:: _static/bowtie_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Bowtie
+
+     - **Bowtie**
+       
+       Alineador de lectura breve ultrarrápida y eficiente en memoria para secuencias cortas de ADN (lecturas) al genoma humano.
+
+       *Indexación basada en Burrows-Wheeler para optimizar el uso de memoria en análisis genómicos.*
+
+       *Versión Instalada: 1 / 2, Este software se encuentra en el paquete BIO - Linux* 
+       
+       `Sitio Oficial de Documentación <http://bowtie-bio.sourceforge.net/manual.shtml>`_
+       
+   * - .. image:: _static/blast_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo BLAST
+
+     - **BLAST (Basic Local Alignment Search Tool)**
+       
+       Encontrar regiones de similitud local entre secuencias biológicas, comparando nucleótidos o proteínas con bases de datos.
+
+       Inferencia de relaciones funcionales y evolutivas, e identificación de miembros de familias de genes,
+       
+       mediante significancia estadística.
+       
+       *Versión Instalada: 2.5.0, Este software se encuentra en el paquete BIO - Linux* 
+       
+       `Sitio Oficial de Documentación <https://blast.ncbi.nlm.nih.gov/Blast.cgi>`_
+       
+
+
+
+
+
+
+
+
+
+.. list-table:: 
+   :widths: 25 75
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/quantum_espresso_logo.png
+          :width: 120px
+          :align: center
+          :alt: Logo Quantum ESPRESSO
+
+     - **Quantum ESPRESSO**
+       
+       :Descripción: Suite integrada de código abierto para cálculos de estructura electrónica y modelado de materiales a nanoescala.
+       :Método: Basado en la teoría funcional de la densidad (DFT), ondas planas y pseudopotenciales.
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/vmd_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo VMD
+
+     - **VMD (Visual Molecular Dynamics)**
+       
+       :Descripción: Programa de visualización y análisis de trayectorias de dinámica molecular.
+       :Aplicaciones: Análisis estructural, animaciones moleculares, representaciones gráficas avanzadas.
+
+Compiladores
+============
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/cmake_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo CMake
+
+     - **CMake**
+       
+       :Descripción: Herramienta multiplataforma para controlar el proceso de compilación mediante archivos de configuración independientes del compilador.
+       :Versión Instalada: 3.24.2
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/redhat_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo Developer Toolset
+
+     - **Developer Toolset (GCC)**
+       
+       :Descripción: Proporciona versiones actualizadas de la Colección de compiladores de GNU y herramientas de depuración para plataformas CentOS y Red Hat.
+       :Versión Instalada: 4
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/intel_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo Intel Parallel Studio
+
+     - **Intel oneAPI**
+       
+       :Descripción: Conjunto de herramientas para optimizar código C, C++ y Fortran con técnicas de vectorización y multihilo en la plataformas Intel.
+       :Versiones disponibles: 2023.1.0, 2024.0.0
+       :Librerias incluidas: IPP, IPPCP.
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/java_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo Oracle JDK
+
+     - **Oracle JDK**
+       
+       :Descripción: Kit de desarrollo que provee las herramientas necesarias para la creación y ejecución de aplicaciones basadas en el lenguaje Java.
+       :Versión Instalada: jdk1.8.0_102
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/pgi_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo PGI CDK
+
+     - **PGI CDK**
+       
+       :Descripción: Compiladores de alto rendimiento para HPC con soporte para OpenACC y CUDA Fortran en sistemas acelerados por GPU.
+       :Versión Instalada: 15.4
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/python_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo Python
+
+     - **Python**
+       
+       :Descripción: Lenguaje de programación multiparadigma interpretado, ideal para cómputo científico y scripting de alto nivel.
+       :Versión Instalada: 3.9.21
+Librerías y Herramientas
+========================
+
+.. list-table:: 
+   :widths: 20 80
+   :header-rows: 0
+   :class: software-table floating-table
+
+   * - .. image:: _static/openmpi_logo.png
+          :width: 100%
+          :align: center
+          :alt: Logo OpenMPI
+
+     - **OpenMPI**
+       
+       :Descripción: Biblioteca de paso de mensajes (MPI) de alto rendimiento para computación paralela.
+       :Implementación: Open Source MPI-3 estándar compatible
+
+.. seealso::
+   Para solicitar la instalación de nuevo software, consulte la sección de :doc:`contacto` o envíe un ticket a soporte.
+
+   
